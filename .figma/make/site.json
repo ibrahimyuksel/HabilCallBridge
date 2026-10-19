@@ -1,0 +1,10 @@
+{
+  "description": "Effortlessly manage calls and SMS from a secondary Android device using a primary phone's SIM card, enabling remote communication and centralized control.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
